@@ -20,6 +20,7 @@ int BinarySearch(int arr[] , int x , int low , int upper)
      
      else
          upper = mid - 1;
+         
 }
 return -1;
 }
