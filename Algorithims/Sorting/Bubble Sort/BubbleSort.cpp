@@ -1,12 +1,13 @@
 #include <iostream>
 using namespace std;
 
+//Function for swapping the values.
 int swapValues(int *x , int *y){
    int temp =  *x;
    *x = *y;
    *y = temp;
 }
-
+//Sorting function.
 int BubbleSort(int arr[] , int n){
     int i;
     bool swapped;
@@ -23,14 +24,14 @@ int BubbleSort(int arr[] , int n){
         }
     }
 }
-
+//Function for printing the values.
 int printArray(int array[],int size){
     int i = 0;
     for(i;i<=size;i++){
         cout<<array[i]<<" "<<endl;
     }
 }
-
+//Main function to call the other function to test the sorting.
 int main()
 {
     int arr[5];
