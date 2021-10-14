@@ -23,4 +23,7 @@
      - Jump Search
      - Interpolation Search
    
+   - SORTING-:
+     - Bubble Sort
+   
    
