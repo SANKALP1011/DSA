@@ -25,5 +25,5 @@
    
    - SORTING-:
      - Bubble Sort
-   
+     - Selection Sort
    
