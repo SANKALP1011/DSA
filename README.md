@@ -1,4 +1,7 @@
-                                   **DATA STRUCTURE AND ALGORITHIM ANALYSIS**
+                                  
+> THIS REPO WOULD BE UPDATED NEXT WEEK WITH ALGO AND STRUCTURES , THANK YOU.                                  
+                                  
+                                  **DATA STRUCTURE AND ALGORITHIM ANALYSIS**
 
 > **Data Structures and Algorithim implemented in c++.**
 
