@@ -1,5 +1,4 @@
-                                  
-> THIS REPO WOULD BE UPDATED NEXT WEEK WITH ALGO AND STRUCTURES , THANK YOU.                                  
+                                
                                   
                                   **DATA STRUCTURE AND ALGORITHIM ANALYSIS**
 
@@ -29,4 +28,5 @@
    - SORTING-:
      - Bubble Sort
      - Selection Sort
+     - Insertion Sort
    
