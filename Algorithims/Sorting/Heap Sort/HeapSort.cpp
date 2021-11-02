@@ -27,7 +27,6 @@ void HeapSort(int arr[],int n){
         swap(arr[0],arr[i]);                          
         heapify(arr,i,0);
     }
-
 }
 //Function to print the array.
 void printArray(int arr[] , int n){
@@ -47,5 +46,4 @@ int main(){
     HeapSort(arr,n);               
     cout<<"The sorted array is"<<" "<<endl;
     printArray(arr,n);
-
 }
