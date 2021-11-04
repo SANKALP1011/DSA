@@ -14,7 +14,7 @@ void heapify(int arr[] , int n , int i){
         largest = right;                                  //Checking for the right.
     }
     if(largest != i){
-        swap(arr[i] , arr[largest]);                     //Swapping the value if i is not the largest.
+        swap(arr[i] , arr[largest]);                      //Swapping the value if i is not the largest.
         heapify(arr,n,largest);
     }
 }
